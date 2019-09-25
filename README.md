@@ -8,3 +8,4 @@ Und das letzte Mal?
 Na hoffentlich.
 Na ich weiß nicht.
 Ja ja.
+Neuer Tag, neues Glück.
