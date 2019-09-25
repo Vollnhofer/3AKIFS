@@ -14,4 +14,4 @@ Jetzt testen wir den merge.
 25.09.2019, 09:20 - Änderung lokal
 25.09.2019, 09:33 - Änderung online
 25.09.2019, 09:33 - Änderung lokal
-25.09.2019, 10:14 - Änderung master online
+25.09.2019, 10:14 - Änderung develop und master online
